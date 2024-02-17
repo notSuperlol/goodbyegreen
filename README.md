@@ -14,6 +14,6 @@ COMPATIBLE WITH:
 2. Polsk's Level Quests mod
 3. Dankmeme's Globed mod
 
-In order to replace the mod textures, you must go into this directory:
-C:\SteamLibrary\steamapps\common\Geometry Dash\geode\unzipped
-In this folder, you will find your downloaded mods and can replace each file yourself.
+- In order to replace the mod textures, you must go into this directory:
+- C:\SteamLibrary\steamapps\common\Geometry Dash\geode\unzipped
+- In this folder, you will find your downloaded mods and can replace each file yourself.
