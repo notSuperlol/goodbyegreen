@@ -10,9 +10,9 @@ HOW TO USE:
 7. You're done!
 
 COMPATIBLE WITH:
-cvolton's BetterInfo mod
-Polsk's Level Quests mod
-Dankmeme's Globed mod
+1. cvolton's BetterInfo mod
+2. Polsk's Level Quests mod
+3. Dankmeme's Globed mod
 
 In order to replace the mod textures, you must go into this directory:
 C:\SteamLibrary\steamapps\common\Geometry Dash\geode\unzipped
