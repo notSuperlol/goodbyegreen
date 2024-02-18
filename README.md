@@ -7,7 +7,7 @@ HOW TO USE:
 2. After Geode is installed, find the mod 'Texture Loader' from the mod index
 3. Restart your game after installing the mod and you will see a folder icon on the game's main page
 4. Click the folder button, and it will open a menu. Click the other folder button in the bottom right corner and create a file folder named 'packs'.
-5. Download goodbyegreen.zip into this folder and extract it
+5. Download the [lastest release](https://github.com/notSuperlol/goodbyegreen/releases) into this folder and extract it
 6. Select the texture pack in the menu from step 4
 7. You're done!
 
