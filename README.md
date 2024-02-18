@@ -1,4 +1,4 @@
-Goodbye Green is a Texture Pack for Geometry Dash that replaces (most) of the game's buttons with a red color scheme, instead of green.
+Goodbye Green is a Texture Pack for Geometry Dash that replaces (most) of the game's buttons and theming with a red color scheme, instead of green.
 
 ![2024-02-18_17-35-41](https://github.com/notSuperlol/goodbyegreen/assets/93556337/b8f56c1e-44a5-4504-a4ad-31608f32b3bc)
 
@@ -15,6 +15,7 @@ COMPATIBLE WITH:
 1. cvolton's BetterInfo mod
 2. Polsk's Level Quests mod
 3. Dankmeme's Globed mod
+4. Slammy333's Editor Save Button mod
 
 - In order to replace the mod textures, you must go into this directory:
 - C:\SteamLibrary\steamapps\common\Geometry Dash\geode\unzipped
