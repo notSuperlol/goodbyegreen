@@ -1,15 +1,16 @@
 Goodbye Green is a Texture Pack for Geometry Dash that replaces (most) of the game's buttons and theming with a red color scheme, instead of green.
 
-![2025-05-09_18-21-30](https://github.com/user-attachments/assets/ffd09286-5378-486e-a247-6bd78b72d193)
+![2025-05-22_13-31-07](https://github.com/user-attachments/assets/c266ff0c-2652-48fd-b83c-950da432cffb)
 
 HOW TO USE:
 1. Install Geode, Geometry Dash's mod client at https://geode-sdk.org/
 2. After Geode is installed, find the mod 'Texture Loader' from the mod index
 3. Restart your game after installing the mod and you will see a folder icon on the game's main page
-4. Click the folder button, and it will open a menu. Click the other folder button in the bottom right corner and create a file folder named 'packs'.
-5. Download the [lastest release](https://github.com/notSuperlol/goodbyegreen/releases) into this folder and extract it
-6. Select the texture pack in the menu from step 4
-7. You're done!
+  - <b>NOTE: In Texture Loader's latest release, the textures menu has been moved to the graphics tab in settings</b>
+5. Click the folder button, and it will open a menu. Click the other folder button in the bottom right corner and create a file folder named 'packs'.
+6. Download the [lastest release](https://github.com/notSuperlol/goodbyegreen/releases) into this folder and extract it
+7. Select the texture pack in the menu from step 4
+8. You're done!
 
 COMPATIBLE WITH:
 1. cvolton's BetterInfo mod
