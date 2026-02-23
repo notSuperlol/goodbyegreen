@@ -16,10 +16,8 @@ HOW TO USE:
 COMPATIBLE WITH:
 1. cvolton's BetterInfo mod
 2. Polsk's Level Quests mod
-3. Polsk's Pause Settings mod
 4. Dankmeme's Globed mod
 5. Slammy333's Editor Save Button mod
-6. Zilko's xdBot mod
 7. Absolute's MegaHack Installer mod
 
 - In order to replace the mod textures, you must go into this directory:
