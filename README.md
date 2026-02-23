@@ -14,6 +14,8 @@ HOW TO USE:
 8. You're done!
 
 COMPATIBLE WITH:
+- Geometry Dash 2.2081
+- Geode v5
 1. cvolton's BetterInfo mod
 2. Polsk's Level Quests mod
 4. Dankmeme's Globed mod
