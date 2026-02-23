@@ -1,7 +1,7 @@
 Goodbye Green is a Texture Pack for Geometry Dash that replaces (most) of the game's buttons and theming with a red color scheme, instead of green.
 This texture pack supports <b>UHD only</b>.
 
-![2025-05-22_13-31-07](https://github.com/user-attachments/assets/c266ff0c-2652-48fd-b83c-950da432cffb)
+![20260222232004_1](https://github.com/user-attachments/assets/8137e363-c498-4871-9abb-550955138509)
 
 HOW TO USE:
 1. Install Geode, Geometry Dash's mod client at https://geode-sdk.org/
