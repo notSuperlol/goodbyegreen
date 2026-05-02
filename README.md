@@ -9,7 +9,7 @@ HOW TO USE:
 3. Restart your game after installing the mod and you will see a folder icon on the game's main page
   - <b>NOTE: In Texture Loader's latest release, the textures menu has been moved to the graphics tab in settings</b>
 5. Click the folder button, and it will open a menu. Click the other folder button in the bottom right corner and create a file folder named 'packs'.
-6. Download the [lastest release](https://github.com/notSuperlol/goodbyegreen/releases) into this folder and extract it
+6. Download the [latest release](https://github.com/notSuperlol/goodbyegreen/releases) into this folder and extract it
 7. Select the texture pack in the menu from step 4
 8. You're done!
 
